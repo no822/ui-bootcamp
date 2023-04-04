@@ -107,3 +107,11 @@ dist
 .idea/
 
 .sass-cache
+*.css.map
+*.sass.map
+*.scss.map
+
+
+.DS_Store
+
+.map
